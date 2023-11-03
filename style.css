@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+ol li,
+ul li {
+  list-style-position: inside;
+}
+
+.recipe-buttons {
+  list-style: none;
+}
+
+.recipe-buttons a {
+  color: blueviolet;
+  background-color: antiquewhite;
+  font-size: 2rem;
+}
+
+.recipe-buttons a:hover {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
