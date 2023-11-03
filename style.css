@@ -7,6 +7,11 @@ body {
   text-align: center;
 }
 
+img {
+  height: auto;
+  width: 500px;
+}
+
 h1 {
   color: red;
   text-align: center;
